@@ -1,0 +1,9 @@
+{
+  "name": "routecard",
+  "version": "0.1.0",
+  "description": "Produce map-based routecards",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}
